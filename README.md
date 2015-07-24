@@ -43,4 +43,4 @@ Here at DiffPlug we've spent the last 5 years building the infrastructure and ex
 
 Combining these skills, we have all the pieces necessary to enable an ecosystem of differs which will bring the decentralized workflow of programmers to the world at large.  This API will be licensed under Apache 2.0 (like all the rest of our open source projects).  It will include at least one test host and at least one test plugin, so that implementors of either side of the API will have a reference client for the other side.
 
-If you would like to see this API come to life, please [support us on KickStarter](https://www.kickstarter.com/projects/1073181831/1614770867/).
+If you would like to see this API come to life, please [support us on Kickstarter](https://www.kickstarter.com/projects/1073181831/1614770867/).
