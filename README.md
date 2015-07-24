@@ -1,5 +1,8 @@
 # <img align="left" src="OpenDiff.jpg"> OpenDiff draft proposal
 
+[![License](https://img.shields.io/badge/license-Apache-blue.svg)](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0))
+[![Changelog](http://img.shields.io/badge/kickstarter-support-ff69b4.svg)](https://www.kickstarter.com/projects/1073181831/1614770867/)
+
 Historically, version control tools have been focused on source code.  As a result, if you tried to put a spreadsheet, CAD model, or some other non-plaintext file into your code repository, many pieces of the version control system would stop working.  `git log`, `git diff` - these commands can only show changes in text files.
 
 DiffPlug changes that by exposing an entirely visual interface to version control.  This makes it possible to put anything into version control, and it lets anyone - even mechanical engineers, circuit designers, and financial analysts - work like a programmer.
