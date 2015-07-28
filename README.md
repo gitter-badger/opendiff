@@ -1,7 +1,7 @@
 # <img align="left" src="OpenDiff.jpg"> OpenDiff draft proposal
 
 [![License](https://img.shields.io/badge/license-Apache-blue.svg)](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0))
-[![Changelog](http://img.shields.io/badge/kickstarter-support-ff69b4.svg)](https://www.kickstarter.com/projects/1073181831/1614770867/)
+[![Changelog](http://img.shields.io/badge/kickstarter-support-ff69b4.svg)](https://www.kickstarter.com/projects/1073181831/git-for-diffplug)
 
 Historically, version control tools have been focused on source code.  As a result, if you tried to put a spreadsheet, CAD model, or some other non-plaintext file into your code repository, many pieces of the version control system would stop working.  `git log`, `git diff` - these commands can only show changes in text files.
 
@@ -43,4 +43,4 @@ Here at DiffPlug we've spent the last 5 years building the infrastructure and ex
 
 Combining these skills, we have all the pieces necessary to enable an ecosystem of differs which will bring the decentralized workflow of programmers to the world at large.  This API will be licensed under Apache 2.0 (like all the rest of our open source projects).  It will include at least one test host and at least one test plugin, so that implementors of either side of the API will have a reference client for the other side.
 
-If you would like to see this API come to life, please [support us on Kickstarter](https://www.kickstarter.com/projects/1073181831/1614770867/).
+If you would like to see this API come to life, please [support us on Kickstarter](https://www.kickstarter.com/projects/1073181831/git-for-diffplug).
