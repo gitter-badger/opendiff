@@ -1,5 +1,7 @@
 # <img align="left" src="OpenDiff.jpg"> OpenDiff draft proposal
 
+[![Join the chat at https://gitter.im/diffplug/opendiff](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/diffplug/opendiff?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![License](https://img.shields.io/badge/license-Apache-blue.svg)](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0))
 [![Changelog](http://img.shields.io/badge/kickstarter-support-ff69b4.svg)](https://www.kickstarter.com/projects/1073181831/git-for-diffplug)
 
